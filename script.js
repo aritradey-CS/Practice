@@ -55,3 +55,12 @@ console.log(`The Tempreture is ${tempreture}`);
 if (tempreture > 70) {
     console.log("It's warm outside!");
 }
+
+// -----------------------------------------------------
+
+let num = 10;
+
+if (num >= 10) {
+    num = num + 5;
+}
+console.log(num);
