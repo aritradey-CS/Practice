@@ -46,3 +46,12 @@ const textOne = `Hello`;
 const textTwo = ' World!';
 const combine = textOne + textTwo;
 console.log(combine);
+
+// Use if-statement
+
+let tempreture = 80;
+console.log(`The Tempreture is ${tempreture}`);
+
+if (tempreture > 70) {
+    console.log("It's warm outside!");
+}
