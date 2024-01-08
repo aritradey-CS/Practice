@@ -42,7 +42,7 @@ console.log(firstNum, secondNum, thiredNum);
 
 // Connect JavaScript Strings
 
-const textOne = `Hello-`;
-const textTwo = 'World!';
+const textOne = `Hello`;
+const textTwo = ' World!';
 const combine = textOne + textTwo;
 console.log(combine);
