@@ -31,3 +31,11 @@ console.log(numfirst < numsecond, numsecond < numThree);
 
 const text = '8';
 console.log('The value of text is:' + text);
+
+// Different ways to create JavaScript Strings
+
+const firstNum = `Hey`;
+const secondNum = "Hello";
+const thiredNum = 'Byezzzzzzzzzz';
+
+console.log(firstNum, secondNum, thiredNum);
