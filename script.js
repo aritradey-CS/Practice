@@ -9,13 +9,25 @@ const numOne = 2;
 const numTwo = 1;
 
 console.log(numOne <= numTwo);
-// -------------------------------------------
+
+
+// Comparison Operator - Greater then or equal
 const numOnee = 3;
 const numtwoo = 2;
 const numThree = 2;
 
 console.log(numOnee > numtwoo, numtwoo > numThree);
 
+// -------------------------------------------
+// Comparison Operator - Less than or equal
+const numfirst = 1;
+const numsecond = 1;
+const numThird = 2;
 
+console.log(numfirst < numsecond, numsecond < numThree);
 
-// Comparison Operator - Greater then or equal
+// -------------------------------------------
+// Create a JavaScrip String
+
+const text = '8';
+console.log('The value of text is:' + text);
