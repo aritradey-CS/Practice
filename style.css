@@ -5,3 +5,11 @@
 body{
     background-color: black;
 }
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    font-size:xx-large;
+    margin-top: 5vh;
+}
